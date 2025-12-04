@@ -34,14 +34,14 @@ export function Contact() {
   
   // 기본 데이터
   const defaultInfo = {
-    name: "당신의 이름",
-    title: "직책/직무",
-    company: "",
-    experience: "3년 경력",
-    phone: "010-0000-0000",
-    email: "your-email@example.com",
-    website: "",
-    location: "당신의 위치",
+    name: "임수한",
+    title: "대표 행정사",
+    company: "임수한 행정사 사무소",
+    experience: "1년 경력",
+    phone: "010-7311-5987",
+    email: "imshcaa@gmail.com",
+    website: "https://blog.naver.com/imsh0912",
+    location: "수원 호매실동",
     workTime: "평일 09:00 - 18:00",
     responseTime: "24시간 이내 응답",
     sectionTitle: "연락처",
