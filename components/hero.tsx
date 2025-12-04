@@ -36,10 +36,10 @@ export function Hero() {
   const defaultSocialLinks = [{"name":"Instagram","icon":"instagram","url":"https://instagram.com/username"},{"name":"YouTube","icon":"youtube","url":"https://youtube.com/@username"}]
   
   const defaultInfo = {
-    greeting: "안녕하세요,",
-    name: "정재훈",
-    title: "단부건 35기",
-    description: "프롭테크 기술로 부동산 시장을 분석합니다.",
+    greeting: "당신의 행정파트너",
+    name: "행정사 임수한",
+    title: "함께 웃어 볼까요",
+    description: "사람과 권리를 지키는 행정파트너",
     profileImage: "/uploads/hero-profile-1764826072537.jpg",
     backgroundImage: "",
     backgroundVideo: "",

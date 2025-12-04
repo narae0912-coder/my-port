@@ -97,9 +97,9 @@ export function About() {
   // 기본 데이터
   const defaultInfo = {
     title: "소개",
-    subtitle: "당신의 전문성과 열정을 소개해주토지보상, 행정심판, 국가보훈, 민원행정, 인허가, 사실조사, 법인설립, 부동산개발세요.",
+    subtitle: "토지보상, 행정심판, 국가보훈, 민원행정, 인허가, 사실조사, 법인설립, 부동산개발",
     background: {"image":"","video":"","color":"","opacity":0.1},
-    experienceCards: [{"icon":"briefcase","title":"회사명","period":"임수한 행정사 사무소 대표 2025.09.~ 대한행정사회 경기남부지방행정사회 사무국장 2025.09.~ 박세군 공인행정사 사무소 소속 행정사 2025.09.~ 대한행정사회 정회원 2025.01.~ 부동산 인허가 법률 연구소 소속 행정사","description":"직무 및 역할"},{"icon":"graduation","title":"학교명","period":"2016 - 2020","description":"전공 및 학위"},{"icon":"award","title":"자격증/수상","period":"2021","description":"설명을 입력하세요"}],
+    experienceCards: [{"icon":"briefcase","title":"임수한 행정사 사무소","period":"2025","description":"대표 행정사"},{"icon":"briefcase","title":"박세군 공인행정사","period":"2025","description":"소속행정사"},{"icon":"briefcase","title":"대한행정사회 경기남부지방행정사회 ","period":"2025","description":"사무국장"}],
     skills: [{"icon":"code","title":"프론트엔드 개발","description":"React, TypeScript, Next.js를 활용한 모던 웹 개발"},{"icon":"database","title":"백엔드 개발","description":12222},{"icon":"palette","title":"UI/UX 디자인","description":"사용자 중심의 인터페이스 디자인"}],
     storyTitle: "나의 이야기",
     story: ["저는 기술을 통해 사람들의 삶을 더 편리하고 의미 있게 만드는 일에 열정을 가지고 있습니다.","다양한 프로젝트를 통해 문제 해결 능력과 창의적인 사고를 키워왔으며, 팀원들과의 협업을 통해 함께 성장하는 가치를 배웠습니다.","앞으로도 지속적인 학습과 도전을 통해 더 나은 개발자가 되기 위해 노력하겠습니다."],
